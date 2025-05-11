@@ -1,7 +1,7 @@
 # Uma simples lista básica para treino
 
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/0b209dfe-9165-420b-9bef-581f68bb9e4e" />
-
+<br>
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/f9a7ecd6-526a-496b-be3a-038a878d16fa" />
 
 
