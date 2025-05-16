@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "postbuild": "cp static.json dist/lis-basica/"
+    "postbuild": "cp static.json dist/lis-basica/browser/"
   },
   "private": true,
   "dependencies": {
